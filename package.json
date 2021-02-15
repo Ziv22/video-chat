@@ -1,0 +1,25 @@
+{
+  "name": "video-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ziv22/video-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ziv22/video-chat/issues"
+  },
+  "homepage": "https://github.com/Ziv22/video-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1",
+    "uuid": "^8.3.2"
+  }
+}
